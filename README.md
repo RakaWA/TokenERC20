@@ -16,3 +16,7 @@ Ikuti langkah - langkah berikut :
 8. Setelahnya akan muncul hasil yang berjalan pada arah kanan tampilan dengan tulisan Token ERC20 yang artinya program sukses dijalankan.
 9. Sekarang dapat dilakukan pengisian Supply token, nama token, dan simbol token pada form yang disediakan dari hasil program tersebut.
 10. Hasil akhir akan muncul pada Debug console dibawah dan itulah Token ERC20 yang kita buat.
+
+
+DONASI
+BTC : 1EhMZs67k4CY2hUP4NRweeGNs1woxZ5e9v
